@@ -1,42 +1,42 @@
-# Bright Data's Scraping Proxies
+# Bright Dataのスクレイピング用プロキシ
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.com/proxy-types) 
+[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/proxy-types) 
 
-## About Bright Data
-Bright Data is an award winning leading proxy provider that serves over 20,000 customers world wide. Over 100M proxy IPs, best-in-class technology and the ability to target any country, city, carrier & ASN make our proxy services a top choice for developers.
+## Bright Dataについて
+Bright Dataは、世界中で20,000社以上のお客様にサービスを提供する、受賞歴のある業界トップクラスのプロキシプロバイダーです。1億以上のプロキシIP、クラス最高水準のテクノロジー、そして任意の国・都市・キャリア・ASNをターゲット可能な機能により、当社のプロキシサービスは開発者の皆様にとって最適な選択肢となっています。
 
-## Residential Proxies
-Experience seamless scraping with Bright Data's [scraping proxies](https://brightdata.com/solutions/scraping-proxy), designed to provide precise targeting, unmatched stability, and rapid response times.
+## レジデンシャルプロキシ
+正確なターゲティング、比類のない安定性、そして高速なレスポンス時間を提供するよう設計されたBright Dataの[スクレイピング用プロキシ](https://brightdata.jp/solutions/scraping-proxy)で、シームレスなスクレイピングを体験してください。
 
-- **72M+ Residential IPs**
-- **Sticky and rotating sessions**
-- **99.95% success rate**
-- **HTTP(S) & SOCKS5 support**
-- **Geo-location targeting (Free)**
+- **72M+ レジデンシャルIP**
+- **Stickyセッションおよびローテーティングセッション**
+- **成功率 99.95%**
+- **HTTP(S) & SOCKS5対応**
+- **ジオロケーションターゲティング（無料）**
 
-## Key Features
-- **Global Coverage**: Residential proxies available in [195 countries](https://brightdata.com/locations).
-- **High Success Rates**: Achieve up to 99.95% success in your scraping projects.
-- **Fast Response**: Average response time of ~0.7 seconds.
-- **Ethically Sourced**: All proxies are sourced with explicit user consent.
-- **Unlimited Concurrent Sessions**: Scale your operations without limitations.
+## 主な特長
+- **グローバルカバレッジ**: [195か国](https://brightdata.jp/locations)で利用可能なレジデンシャルプロキシです。
+- **高い成功率**: スクレイピングプロジェクトで最大99.95%の成功率を実現します。
+- **高速レスポンス**: 平均レスポンス時間は約0.7秒です。
+- **倫理的に取得**: すべてのプロキシは、明示的なユーザー同意のもとで取得されています。
+- **同時接続セッション無制限**: 制限なく運用をスケールできます。
 
-## Pricing Plans
-- **Pay As You Go**: $8.4/GB, no monthly commitment required.
-- **Monthly Subscriptions**:
-  - **69 GB**: $7.14/GB, $499/month.
-  - **158 GB**: $6.3/GB, $999/month.
-  - **339 GB**: $5.88/GB, $1999/month.
-  - **Enterprise Plans**: Custom solutions available for large-scale needs.
+## 料金プラン
+- **従量課金**: $8.4/GB、月額契約は不要です。
+- **月額サブスクリプション**:
+  - **69 GB**: $7.14/GB、$499/月。
+  - **158 GB**: $6.3/GB、$999/月。
+  - **339 GB**: $5.88/GB、$1999/月。
+  - **Enterprise Plans**: 大規模ニーズ向けにカスタムソリューションをご用意しています。
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/proxy-types) 
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/proxy-types) 
 
-## Getting Started with Residential Proxies
-1. **Start Free Trial**: No credit card required.
-2. **Integration**: Use our APIs or Control Panel to manage IPs and configurations.
-3. **Supported Languages**: Quick start examples provided for Python, Java, C#, Node.js, and Shell.
+## レジデンシャルプロキシの利用開始
+1. **無料トライアルを開始**: クレジットカードは不要です。
+2. **統合**: APIまたはControl Panelを使用して、IPや設定を管理します。
+3. **対応言語**: Python、Java、C#、Node.js、Shell向けにクイックスタート例をご用意しています。
 
-## Code Examples
+## コード例
 
 ### Python
 
@@ -120,37 +120,37 @@ require('request-promise')({
 curl --proxy brd.superproxy.io:33335 --proxy-user brd-customer-[your customerID]-zone-residential:[your password] -k "https://geo.brdtest.com/mygeo.json"
 ```
 
-## Mobile Proxies
-Access the internet as a real mobile user with Bright Data's [mobile proxy network](https://brightdata.com/proxy-types/mobile-proxies), featuring millions of 3G, 4G, and 5G IPs from around the world.
+## モバイルプロキシ
+世界中の数百万の3G、4G、5GのIPを備えたBright Dataの[モバイルプロキシネットワーク](https://brightdata.jp/proxy-types/mobile-proxies)で、実際のモバイルユーザーとしてインターネットにアクセスできます。
 
-- **7,000,000+ Mobile IPs**
-- **3G/4G/5G mobile IPs**
-- **99.99% Uptime with 24/7 support**
-- **Geo-location targeting (Free)**
+- **7,000,000+ モバイルIP**
+- **3G/4G/5G モバイルIP**
+- **24/7サポートによる稼働率 99.99%**
+- **ジオロケーションターゲティング（無料）**
 
-## Key Features
-- **Global Reach**: Access mobile IPs across [195 countries](https://brightdata.com/locations).
-- **High Success Rates**: Achieve up to 99.9% success in data collection and testing tasks.
-- **Real Mobile Connections**: Mobile IPs sourced from real devices on genuine networks.
-- **Unlimited Scaling**: Scale with concurrent sessions and high-availability infrastructure.
-- **Carrier-Level Targeting**: Target by specific carriers for in-depth, accurate insights.
+## 主な特長
+- **グローバル対応**: [195か国](https://brightdata.jp/locations)のモバイルIPにアクセスできます。
+- **高い成功率**: データ収集およびテスト作業で最大99.9%の成功率を実現します。
+- **実際のモバイル接続**: モバイルIPは、実デバイスおよび実ネットワークから取得されています。
+- **無制限のスケーリング**: 同時接続セッションと高可用性インフラによりスケールできます。
+- **キャリアレベルのターゲティング**: 特定のキャリアを指定して、深く正確なインサイトを得られます。
 
-## Pricing Plans
-- **Pay As You Go**: $8.4/GB with no monthly commitment.
-- **Monthly Subscriptions**:
-  - **69 GB**: $7.14/GB, $499/month + VAT.
-  - **158 GB**: $6.3/GB, $999/month + VAT.
-  - **339 GB**: $5.88/GB, $1999/month + VAT.
-  - **Enterprise Plans**: Custom pricing and packages available.
+## 料金プラン
+- **従量課金**: $8.4/GB、月額契約なしで利用できます。
+- **月額サブスクリプション**:
+  - **69 GB**: $7.14/GB、$499/月 + VAT。
+  - **158 GB**: $6.3/GB、$999/月 + VAT。
+  - **339 GB**: $5.88/GB、$1999/月 + VAT。
+  - **Enterprise Plans**: カスタム料金およびパッケージをご用意しています。
 
-Sign up today and get a dollar-for-dollar match on your first deposit, up to $500!
+今すぐ登録して、初回入金額に対して最大$500まで同額マッチを獲得しましょう！
 
-## Getting Started with Mobile Proxies
-1. **Start Free Trial**: No credit card required.
-2. **Integration**: Use APIs or the Bright Data Control Panel to manage IPs and configurations.
-3. **Supported Languages**: Quick start examples provided for Python, Java, C#, Node.js, and Shell.
+## モバイルプロキシの利用開始
+1. **無料トライアルを開始**: クレジットカードは不要です。
+2. **統合**: APIまたはBright Data Control Panelを使用して、IPや設定を管理します。
+3. **対応言語**: Python、Java、C#、Node.js、Shell向けにクイックスタート例をご用意しています。
 
-## Code Examples
+## コード例
 
 ### Python
 
@@ -234,51 +234,51 @@ require('request-promise')({
 curl --proxy brd.superproxy.io:22225 --proxy-user brd-customer-[your customerID]-zone-mobile:[your password] -k "https://geo.brdtest.com/mygeo.json"
 ```
 
-## ISP Proxies
-Utilize Bright Data's extensive [ISP proxy network](https://brightdata.com/proxy-types/isp-proxies) for secure, stable, and high-speed data collection with IPs sourced directly from ISPs.
+## ISPプロキシ
+ISPから直接取得されたIPを用いて、安全で安定した高速データ収集を実現するBright Dataの広範な[ISPプロキシネットワーク](https://brightdata.jp/proxy-types/isp-proxies)をご活用ください。
 
-- **700,000+ ISP IPs**
-- **Static Residential IPs** with long-term stability
-- **99.9% success rate**
-- **HTTP(S) & SOCKS5 support**
-- **Free Country-Level Targeting**
+- **700,000+ ISP IP**
+- 長期的な安定性を備えた**スタティック レジデンシャルIP**
+- **成功率 99.9%**
+- **HTTP(S) & SOCKS5対応**
+- **国レベルのターゲティング無料**
 
-## Key Features
-- **Global Reach**: Access ISP IPs across [multiple countries](https://brightdata.com/locations).
-- **High Success Rates**: Up to 99.9% success in accessing websites.
-- **Fast and Stable**: Low latency and reliable uptime with 99.99% network availability.
-- **Exclusive IP Access**: Dedicated IPs for consistent connections.
-- **Ethically Sourced**: All ISP proxies are obtained directly from ISPs and are compliant with GDPR and CCPA.
+## 主な特長
+- **グローバル対応**: [複数の国](https://brightdata.jp/locations)にわたるISP IPにアクセスできます。
+- **高い成功率**: Webサイトへのアクセスで最大99.9%の成功率です。
+- **高速かつ安定**: 低レイテンシーと信頼性の高い稼働率（ネットワーク可用性99.99%）を提供します。
+- **専用IPアクセス**: 一貫した接続のための専用IPを提供します。
+- **倫理的に取得**: すべてのISPプロキシはISPから直接取得され、GDPRおよびCCPAに準拠しています。
 
-## Pricing Plans
-- **Pay As You Go**: $15/GB for monthly commitment-free usage.
-- **Monthly Subscriptions - Shared**:
-  - **10 IPs**: $1.80/IP, $18/month + VAT.
-  - **100 IPs**: $1.45/IP, $145/month + VAT.
-  - **500 IPs**: $1.40/IP, $700/month + VAT.
-  - **1,000 IPs**: $1.30/IP, $1300/month + VAT.
-  - **Enterprise Plans**: Custom solutions for extensive data collection needs.
+## 料金プラン
+- **従量課金**: $15/GB、月額契約なしで利用できます。
+- **月額サブスクリプション - Shared**:
+  - **10 IPs**: $1.80/IP、$18/月 + VAT。
+  - **100 IPs**: $1.45/IP、$145/月 + VAT。
+  - **500 IPs**: $1.40/IP、$700/月 + VAT。
+  - **1,000 IPs**: $1.30/IP、$1300/月 + VAT。
+  - **Enterprise Plans**: 大規模なデータ収集ニーズ向けにカスタムソリューションをご用意しています。
  
-- **Monthly Subscriptions - Dedicated**:
-  - **10 IPs**: $3.50/IP, $35/month + VAT.
-  - **100 IPs**: $2.75/IP, $275/month + VAT.
-  - **500 IPs**: $2.60/IP, $1300/month + VAT.
-  - **1,000 IPs**: $2.50/IP, $2500/month + VAT.
-  - **Enterprise Plans**: Custom solutions for extensive data collection needs.
+- **月額サブスクリプション - Dedicated**:
+  - **10 IPs**: $3.50/IP、$35/月 + VAT。
+  - **100 IPs**: $2.75/IP、$275/月 + VAT。
+  - **500 IPs**: $2.60/IP、$1300/月 + VAT。
+  - **1,000 IPs**: $2.50/IP、$2500/月 + VAT。
+  - **Enterprise Plans**: 大規模なデータ収集ニーズ向けにカスタムソリューションをご用意しています。
  
-- **Monthly Subscriptions - Pay/GB**:
-  - $12.75/GB, $499/month + VAT.
-  - $11.25/GB, $999/month + VAT.
-  - $10.50/GB, $1999/month + VAT.
-  - **Enterprise Plans**: Custom solutions for extensive data collection needs.
+- **月額サブスクリプション - Pay/GB**:
+  - $12.75/GB、$499/月 + VAT。
+  - $11.25/GB、$999/月 + VAT。
+  - $10.50/GB、$1999/月 + VAT。
+  - **Enterprise Plans**: 大規模なデータ収集ニーズ向けにカスタムソリューションをご用意しています。
 
 
-## Getting Started with ISP Proxies
-1. **Start Free Trial**: No credit card required.
-2. **Integration**: Manage IPs and configurations via Bright Data's Control Panel or API.
-3. **Supported Languages**: Quick start guides provided for Python, Java, C#, Node.js, and Shell.
+## ISPプロキシの利用開始
+1. **無料トライアルを開始**: クレジットカードは不要です。
+2. **統合**: Bright DataのControl PanelまたはAPIを通じて、IPと設定を管理します。
+3. **対応言語**: Python、Java、C#、Node.js、Shell向けにクイックスタートガイドをご用意しています。
 
-## Code Examples
+## コード例
 
 ### Python
 
@@ -362,53 +362,53 @@ require('request-promise')({
 curl --proxy brd.superproxy.io:22225 --proxy-user brd-customer-[your customerID]-zone-isp:[your password] -k "https://geo.brdtest.com/mygeo.json"
 ```
 
-## Datacenter Proxies
-Leverage Bright Data's extensive [datacenter proxy network](https://brightdata.com/proxy-types/datacenter-proxies) with unmatched scale and speed for reliable data collection and web scraping.
+## データセンタープロキシ
+信頼性の高いデータ収集とWebスクレイピングのために、比類のないスケールと速度を備えたBright Dataの広範な[データセンタープロキシネットワーク](https://brightdata.jp/proxy-types/datacenter-proxies)をご活用ください。
 
-- **770,000+ Datacenter IPs**
-- **[Shared](https://brightdata.com/solutions/shared-proxies) and [Dedicated](https://brightdata.com/solutions/dedicated-proxies) IP Options**
-- **~0.24s Average Response Time**
-- **HTTP(S) & [SOCKS5](https://brightdata.com/solutions/socks5-proxies) Support**
-- **Free Country-Level Targeting**
+- **770,000+ データセンターIP**
+- **[Shared](https://brightdata.jp/solutions/shared-proxies)および[Dedicated](https://brightdata.jp/solutions/dedicated-proxies)のIPオプション**
+- **平均レスポンス時間 約0.24秒**
+- **HTTP(S) & [SOCKS5](https://brightdata.jp/solutions/socks5-proxies)対応**
+- **国レベルのターゲティング無料**
 
-## Key Features
-- **Global Reach**: Access datacenter IPs across [98 countries](https://brightdata.com/locations).
-- **High Success Rates**: Achieve up to 99.9% success in scraping tasks.
-- **Fast and Reliable**: 99.99% network uptime and rapid connection speeds.
-- **Customizable Options**: Choose between shared or dedicated IPs based on your needs.
-- **Unlimited Scaling**: Support for concurrent sessions without restrictions.
+## 主な特長
+- **グローバル対応**: [98か国](https://brightdata.jp/locations)のデータセンターIPにアクセスできます。
+- **高い成功率**: スクレイピング作業で最大99.9%の成功率を実現します。
+- **高速かつ信頼性**: ネットワーク稼働率99.99%と高速な接続速度を提供します。
+- **カスタマイズ可能なオプション**: ニーズに応じてSharedまたはDedicatedのIPを選択できます。
+- **無制限のスケーリング**: 制限なしで同時接続セッションをサポートします。
 
-## Pricing Plans
-- **Pay As You Go**: $0.6/GB for a monthly commitment-free experience.
-- **Monthly Subscriptions - Shared**:
-  - **10 IPs**: $1.40/IP, $14/month + VAT.
-  - **100 IPs**: $1.00/IP, $100/month + VAT.
-  - **500 IPs**: $0.95/IP, $475/month + VAT.
-  - **1,000 IPs**: $0.90/IP, $900/month + VAT.
-  - **Enterprise Plans**: Tailored solutions for large-scale data collection.
+## 料金プラン
+- **従量課金**: $0.6/GB、月額契約なしで利用できます。
+- **月額サブスクリプション - Shared**:
+  - **10 IPs**: $1.40/IP、$14/月 + VAT。
+  - **100 IPs**: $1.00/IP、$100/月 + VAT。
+  - **500 IPs**: $0.95/IP、$475/月 + VAT。
+  - **1,000 IPs**: $0.90/IP、$900/月 + VAT。
+  - **Enterprise Plans**: 大規模なデータ収集向けに最適化したソリューションをご提供します。
 
-- **Monthly Subscriptions - Dedicated**:
-  - **10 IPs**: $2.20/IP, $22/month + VAT.
-  - **100 IPs**: $1.70/IP, $170/month + VAT.
-  - **500 IPs**: $1.50/IP, $750/month + VAT.
-  - **1,000 IPs**: $1.30/IP, $1300/month + VAT.
-  - **Enterprise Plans**: Tailored solutions for large-scale data collection.
+- **月額サブスクリプション - Dedicated**:
+  - **10 IPs**: $2.20/IP、$22/月 + VAT。
+  - **100 IPs**: $1.70/IP、$170/月 + VAT。
+  - **500 IPs**: $1.50/IP、$750/月 + VAT。
+  - **1,000 IPs**: $1.30/IP、$1300/月 + VAT。
+  - **Enterprise Plans**: 大規模なデータ収集向けに最適化したソリューションをご提供します。
 
 
-- **Monthly Subscriptions - Pay/GB**:
-  - $0.51/GB, $499/month + VAT.
-  - $0.45/GB, $999/month + VAT.
-  - $0.42/GB, $1999/month + VAT.
-  - **Enterprise Plans**: Tailored solutions for large-scale data collection.
+- **月額サブスクリプション - Pay/GB**:
+  - $0.51/GB、$499/月 + VAT。
+  - $0.45/GB、$999/月 + VAT。
+  - $0.42/GB、$1999/月 + VAT。
+  - **Enterprise Plans**: 大規模なデータ収集向けに最適化したソリューションをご提供します。
 
-Sign up and get a dollar-for-dollar match on your first deposit, up to $500!
+登録して、初回入金額に対して最大$500まで同額マッチを獲得しましょう！
 
-## Getting Started with Datacenter Proxies
-1. **Start Free Trial**: No credit card required.
-2. **Integration**: Manage IPs and configurations with APIs or the Bright Data Control Panel.
-3. **Supported Languages**: Quick start guides available for Python, Java, C#, Node.js, and Shell.
+## データセンタープロキシの利用開始
+1. **無料トライアルを開始**: クレジットカードは不要です。
+2. **統合**: APIまたはBright Data Control PanelでIPと設定を管理します。
+3. **対応言語**: Python、Java、C#、Node.js、Shell向けにクイックスタートガイドをご用意しています。
 
-## Code Examples
+## コード例
 
 ### Python
 
@@ -491,4 +491,4 @@ require('request-promise')({
 # Replace '[your customerID]' and '[your password]' with your actual credentials
 curl --proxy brd.superproxy.io:22225 --proxy-user brd-customer-[your customerID]-zone-residential:[your password] -k "https://geo.brdtest.com/mygeo.json"
 ```
-### Join [Bright Data](https://brightdata.com) now and see why we are the industry leader. 
+### 今すぐ[Bright Data](https://brightdata.jp)に参加して、当社が業界リーダーである理由をご確認ください。
